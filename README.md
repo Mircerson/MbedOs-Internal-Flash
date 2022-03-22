@@ -8,8 +8,8 @@
 Working version
 
 <figure>
-<img src="Images/V1/WriteRead.PNG" width="300px">
-<figcaption>Figure 3: Layout</figcaption>
+<img src="Images/V1/WriteRead.PNG" width="600px">
+<figcaption>Figure 1: V1.0.0 Initial release</figcaption>
 </figure>
 
 Yet to implement:
